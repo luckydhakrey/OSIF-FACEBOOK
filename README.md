@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&width=435&lines=LE+BHAIYA+OMFOOOOOOOOOO%F0%9F%94%A5%F0%9F%98%82;TUM+TO+BADE+HEAVY+DRIVER+NIKALE+%F0%9F%94%A5%F0%9F%98%82" alt="Typing SVG" /></a>
 # this project will be stopped for some time to come.
 
 ```
@@ -18,8 +18,8 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/ciku370/OSIF
-$ cd OSIF
+$ git clone https://github.com/ciku370/OSIF-FACEBOOK
+$ cd OSIF-FACEBOOK
 ```
 
 # [ Setup ]
